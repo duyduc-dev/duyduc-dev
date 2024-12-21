@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-[![Linkedin: Duc Dang](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png)](https://www.linkedin.com/in/duyduc-dev/){: style="width:36px; height:36px;"}
+[![Linkedin: Duc Dang](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png)]{: style="width:36px; height:36px;"}(https://www.linkedin.com/in/duyduc-dev/)
 
 ### 📫 Like to meet me?
 
