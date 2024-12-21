@@ -4,18 +4,15 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+[![Linkedin: Duc Dang](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duyduc-dev/)](https://www.linkedin.com/in/duyduc-dev/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/dangduyducdangduyduc/30-minute-meeting" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -29,36 +26,33 @@ npx anmol
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    code: ["TypeScript", "Javascript", "Java", "PHP"],
+    askMeAbout: ["web dev", "app dev", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
+            css: ["Sass", "Tailwind", "Bootstrap", "Styled component"],
             uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
+            java: ["Spring boot"],
+            PHP: ["Laravel", "Symfony"]
         },
         mobileApp: {
-            crossPlatform: ["Flutter"],
+            crossPlatform: ["React Native"],
         },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        devOps: ["Docker🐳", "Nginx", "GitHub Actions"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "Redis", "My SQL", "SQL Server"],
         misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
         generativeAI: ["GPT", "Vectorization"],
     },
     architecture: {
         frontEnd: ["SPA", "SSR"],
         backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
-    currentFocus: "Leading a way in generative AI innovation",
+    currentFocus: "Grow up my skill about React and Java",
     funFact: "I can debug faster with a coffee in hand!"
 };
 ```
@@ -75,15 +69,10 @@ const anmol = {
 
 **🐱 My GitHub Data** 
 
-> 📦 251.1 kB Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2024
+> 📜 41 Public Repositories 
  > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -109,30 +98,25 @@ Sunday                   944 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: Indochina Time
 
 💬 Programming Languages: 
-TypeScript               20 hrs 1 min        ███████████████████████░░   92.37 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TypeScript               40 hrs 1 min        ████████████████████░░░░░   66.67 % 
+PHP                      20 hrs              ███████░░░░░░░░░░░░░░░░░░   33.33 % 
 
 🔥 Editors: 
-WebStorm                 21 hrs 40 mins      █████████████████████████   100.00 % 
+WebStorm                 60 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      60 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+JavaScript               23 repos            ██████████████░░░░░░░░░░░   50.00 % 
+TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   30.43 % 
+Java                      9 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   19.56 % 
 ```
 
 
