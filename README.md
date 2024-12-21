@@ -2,9 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-[![Linkedin: Duc Dang](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duyduc-dev/)](https://www.linkedin.com/in/duyduc-dev/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+[![Linkedin: Duc Dang](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png)](https://www.linkedin.com/in/duyduc-dev/)
 
 ### 📫 Like to meet me?
 
