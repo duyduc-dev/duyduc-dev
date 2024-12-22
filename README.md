@@ -13,7 +13,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const duyducDev = {
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "Java", "PHP"],
     askMeAbout: ["web dev", "app dev", "UI/UX", "tech trends"],
