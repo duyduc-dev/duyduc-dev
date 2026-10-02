@@ -23,7 +23,7 @@ I like going one layer below the framework. Rectify reimplements the UI runtime 
 
 <img src="./assets/numbers.svg" width="100%" alt="By the numbers: npm installs a month, GitHub stars, followers and public repositories.">
 
-<sub>As of 2026-10-02, from the public GitHub and npm APIs. <a href="#l1--now">↓ One layer down: L1 · Now</a></sub>
+<sub>As of {{asOf}}, from the public GitHub and npm APIs. <a href="#l1--now">↓ One layer down: L1 · Now</a></sub>
 
 ## L1 · Now
 
@@ -36,10 +36,7 @@ Hardening wcvm's Node compatibility (Vite, Next.js, SvelteKit, NestJS and more) 
 
 | Area | Tools |
 | --- | --- |
-| Frontend | React, Next.js, Tailwind, Material UI |
-| Backend | Node, NestJS, Spring Boot, Laravel |
-| Data | PostgreSQL, MongoDB, Redis |
-| DevOps | Docker, Nginx, GitHub Actions |
+{{stack}}
 
 </details>
 

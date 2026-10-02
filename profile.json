@@ -1,0 +1,30 @@
+{
+  "name": "Duc Dang",
+  "handle": "duyduc-dev",
+  "email": "ducdangduy1908@gmail.com",
+  "headline": "I build runtimes for the web.",
+  "subline": "A React-compatible UI library, and Node.js that runs inside a browser tab.",
+  "role": "",
+  "layers": [
+    { "id": "L0", "name": "Surface", "blurb": "what I build", "color": "#ffb545" },
+    { "id": "L1", "name": "Now", "blurb": "what I'm on", "color": "#5ab0ff" },
+    { "id": "L2", "name": "UI runtime", "blurb": "rectify", "color": "#a98bff" },
+    { "id": "L3", "name": "Sandbox", "blurb": "wcvm · duckwc", "color": "#5be49b" }
+  ],
+  "cards": [
+    { "id": "rectify", "layer": "L2", "kind": "tree", "repo": "Rectify-Teams/rectify", "npm": ["@rectify-dev/core", "@rectify-dev/router"],
+      "desc": "A React-compatible UI library from scratch. Fiber reconciler, hooks, Suspense and a router, in about 10 KB." },
+    { "id": "create-rectify-app", "layer": "L2", "kind": "files", "repo": "Rectify-Teams/rectify", "npm": ["@rectify-dev/create-rectify-app"],
+      "desc": "One command scaffolds a Rectify app, with the Vite plugin already wired in." },
+    { "id": "wcvm", "layer": "L3", "kind": "wide", "repo": "duyduc-dev/wcvm", "npm": ["wcvm"],
+      "desc": "Node.js in your browser tab. Web Workers, npm install and dev servers like Vite, Next.js and Express, with no backend." },
+    { "id": "duckwc", "layer": "L3", "kind": "stack", "repo": "duyduc-dev/webcontainer", "npm": ["duckwc"],
+      "desc": "The earlier take: a virtual filesystem, shell, node and npm, and live preview, all inside workers." }
+  ],
+  "stack": {
+    "Frontend": ["React", "Next.js", "Tailwind", "Material UI"],
+    "Backend": ["Node", "NestJS", "Spring Boot", "Laravel"],
+    "Data": ["PostgreSQL", "MongoDB", "Redis"],
+    "DevOps": ["Docker", "Nginx", "GitHub Actions"]
+  }
+}

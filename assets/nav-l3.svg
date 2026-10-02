@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48" role="img" aria-labelledby="t d">
+<title id="t">L3 Sandbox</title>
+<desc id="d">Jump to L3, Sandbox.</desc>
+<style>.s{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.fb{transform-box:fill-box;transform-origin:center}.fl{transform-box:fill-box;transform-origin:0 50%}@media (prefers-reduced-motion:reduce){*{animation:none!important}.motion{display:none}}@keyframes a1{0%{transform:scale(1);opacity:.7}70%,100%{transform:scale(2.8);opacity:0}}.a1{animation:a1 2.4s ease-out .6s infinite}@keyframes a2{0%,100%{transform:none}50%{transform:translateY(3px)}}.a2{animation:a2 1.6s ease-in-out .6s infinite}</style>
+<defs><radialGradient id="glow" cx="26" cy="24" r="90" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5be49b" stop-opacity=".16"/><stop offset="1" stop-color="#5be49b" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="159" height="47" rx="12" fill="#0b0d12" stroke="#262b36"/>
+<rect x=".5" y=".5" width="159" height="47" rx="12" fill="url(#glow)"/>
+<circle class="fb a1" cx="24" cy="24" r="5" fill="none" stroke="#5be49b" stroke-width="1.5" style="opacity:0"/><circle cx="24" cy="24" r="4.5" fill="#5be49b"/><text class="m" x="40" y="28.5" font-size="12" font-weight="600" fill="#5be49b">L3</text><text class="s" x="64" y="29" font-size="14" font-weight="500" fill="#eef1f6">Sandbox</text><g class="a2"><text class="m" x="146" y="29" text-anchor="middle" font-size="13" fill="#7c8596">↓</text></g>
+</svg>
